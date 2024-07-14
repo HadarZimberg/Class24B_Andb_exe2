@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set_time">Set Time</string>
+    <string name="hours">H</string>
+    <string name="minutes">M</string>
+    <string name="seconds">S</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
